@@ -1,0 +1,9 @@
+fruits:
+  - apple
+  - grapes
+  - banana
+  - mango
+cars: [audi, bmw, mercedes]
+comments: >
+  This is single
+  line comment

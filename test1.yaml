@@ -1,0 +1,10 @@
+fruits:
+    - apple
+  - grapes
+  - banana
+  - mango
+cars: [audi, bmw, mercedes]
+comments: >
+      This is a single
+      comments"
+
